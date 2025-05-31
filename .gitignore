@@ -1,9 +1,0 @@
-# Virtual environment
-myenv/
-
-
-# Python cache
-__pycache__/
-
-# macOS system files
-.DS_Store
