@@ -5,7 +5,7 @@ This project is a **FastAPI-based** web service that interacts with a **machine 
 ## 🚀 Features
 
 - ✅ REST API built with FastAPI
-- ✅ Predicts insurance category (e.g., low-risk, high-risk)
+- ✅ Predicts insurance category 
 - ✅ Accepts user data via POST requests
 - ✅ Pre-trained ML model served from `.pkl` file
 - ✅ Input validation using Pydantic
